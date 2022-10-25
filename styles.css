@@ -1,4 +1,7 @@
-
+*{
+    padding: auto;
+    
+}
 footer{
     display: flex;
     width: 100% ;
